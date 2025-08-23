@@ -1,9 +1,28 @@
-# React + Vite
+React Modern Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern landing page built with React + Vite and styled using Tailwind CSS.  
+It is designed for startups, SaaS products, and modern web applications, with smooth animations and a responsive layout.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# React-modern-landing" 
+Features  
+Built with React + Vite  
+Tailwind CSS for styling  
+Fully responsive design  
+Smooth animations & transitions  
+Sections for product, features, testimonials, and contact  
+
+---
+
+---
+
+Getting Started  
+
+1. Clone the Repository  
+```bash
+git clone https://github.com/ABISHEK086/React-modern-landing.git
+cd React-modern-landing
+npm install
+npm run dev
+
+ 
