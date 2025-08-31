@@ -230,7 +230,6 @@ const aboutFeatures = [
   ];
 
 
-//   footer section data
 
 const footerLinks = {
     product: {
