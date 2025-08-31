@@ -1,4 +1,4 @@
-// navbar data
+
 
 const menuItems = {
     platform: {
