@@ -188,7 +188,7 @@ const customerData = [
   ];
 
 
-//   about section data
+
 
 const aboutFeatures = [
     {
