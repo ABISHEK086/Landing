@@ -149,7 +149,7 @@ const tabsData = [
     }
   ];
 
-// customer section data
+
 
 const customerData = [
     {
