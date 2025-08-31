@@ -53,7 +53,7 @@ const menuItems = {
   };
 
 
-// company logo data
+
 
 const logos = [
     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c99501c_Discord.svg", alt: "Discord", width: 130, height: 27 },
