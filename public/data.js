@@ -74,8 +74,6 @@ const logos = [
   ];
 
 
-// features section data
-
 const features = [
     {
       icon: <FiLayout className="w-8 h-8" />,
