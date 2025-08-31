@@ -101,7 +101,7 @@ const features = [
     }
   ];
 
-// design section data
+
 const tabsData = [
     {
       id: 'tab1',
