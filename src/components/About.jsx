@@ -81,7 +81,7 @@ const About = () => {
   return (
     <section className="bg-black text-white py-24">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Header */}
+        {/* Heade */}
         <div className="grid grid-cols-1 lg:grid-cols-2 md:gap-32  gap-8">
           <div className="md:mb-24">
             <h2 className="text-5xl md:text-7xl font-bold mb-8 max-w-[50rem]">
