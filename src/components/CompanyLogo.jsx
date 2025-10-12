@@ -17,7 +17,7 @@ const CompanyLogo = () => {
       { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995054_Decathlon.svg", alt: "decathlon logo", width: 160, height: 22 },
     ];
   
-    return (
+  return (
       <div className="relative bg-black overflow-hidden md:py-16 py-8">
         {/* Marquee animation container */}
         <div className="flex animate-marquee">
