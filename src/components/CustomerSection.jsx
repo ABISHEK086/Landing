@@ -4,7 +4,7 @@ import { BsPlayFill, BsPauseFill } from 'react-icons/bs';
    
 const customerData = [
   {
-    id: 'techstart', 
+    id: 'techstart',  
     logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff7808fef2aeecfff1b_Outliant.svg',
     video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/lattice.mp4',
     poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faa88e83cdb12efc5b3_lattice-bg.webp',
