@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';                     
-import { HiArrowLeft, HiArrowRight } from 'react-icons/hi';
+import { HiArrowLeft, HiArrowRight } from 'react-icons/hi'; 
 import { BsPlayFill, BsPauseFill } from 'react-icons/bs';             
   
 const customerData = [
