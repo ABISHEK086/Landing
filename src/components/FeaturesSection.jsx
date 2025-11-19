@@ -1,6 +1,6 @@
 import { FiLayout, FiUploadCloud, FiBarChart, FiServer, FiArrowDown } from 'react-icons/fi';
  
-const FeaturesSection = () => { 
+const FeaturesSection = () => {  
   const features = [
     {
       icon: <FiLayout className="w-8 h-8" />,
