@@ -1,5 +1,5 @@
 import { FiLayout, FiUploadCloud, FiBarChart, FiServer, FiArrowDown } from 'react-icons/fi';
-
+ 
 const FeaturesSection = () => {
   const features = [
     {
