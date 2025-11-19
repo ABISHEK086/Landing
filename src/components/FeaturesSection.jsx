@@ -2,7 +2,7 @@ import { FiLayout, FiUploadCloud, FiBarChart, FiServer, FiArrowDown } from 'reac
  
 const FeaturesSection = () => {      
   const features = [   
-    {      
+    {       
       icon: <FiLayout className="w-8 h-8" />, 
       title: "Design and build",
       description: "Designers can take control of HTML, CSS, and JavaScript in a visual canvas — while marketers can work with pre-made, design-approved building blocks.",
