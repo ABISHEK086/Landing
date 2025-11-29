@@ -4,7 +4,7 @@ import { HiArrowRight } from 'react-icons/hi';
 import { BsPlayFill, BsPauseFill } from 'react-icons/bs'; 
   
 const tabsData = [   
-  {  
+  {   
     id: 'tab1', 
     title: 'Design without limits',
     subtitle: 'CodeTutor puts the power of code into a visual canvas so every team can create stunning websites quickly — and extend the power of their work with custom code.',
