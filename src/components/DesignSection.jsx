@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router';
 import { HiArrowRight } from 'react-icons/hi';
-import { BsPlayFill, BsPauseFill } from 'react-icons/bs';  
+import { BsPlayFill, BsPauseFill } from 'react-icons/bs';   
   
 const tabsData = [      
   {   
