@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 import { HiArrowRight } from 'react-icons/hi';
 import { BsPlayFill, BsPauseFill } from 'react-icons/bs'; 
   
-const tabsData = [   
+const tabsData = [    
   {   
     id: 'tab1', 
     title: 'Design without limits',
