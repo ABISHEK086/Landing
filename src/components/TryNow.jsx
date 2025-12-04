@@ -1,5 +1,5 @@
 import React from 'react'
- 
+  
 const TryNow = () => {   
   return (      
     <section className="bg-black text-white py-20">  
