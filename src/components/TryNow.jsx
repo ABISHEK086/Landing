@@ -8,7 +8,7 @@ const TryNow = () => {
           <div className="md:w-3/5">
             <h1 className="text-4xl md:text-8xl font-bold mb-8">  
               Try it for<br />free   
-            </h1>
+            </h1> 
             <p className="text-xl mb-8 md:max-w-lg"> 
               Try CodeTutor for as long as you like with our free Starter plan. Purchase a paid Site plan to publish, host, and unlock additional features.
             </p>
