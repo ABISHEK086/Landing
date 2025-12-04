@@ -3,7 +3,7 @@ import React from 'react'
 const TryNow = () => {   
   return (      
     <section className="bg-black text-white py-20">   
-      <div className="container mx-auto px-4"> 
+      <div className="container mx-auto px-4">  
         <div className="flex flex-col md:flex-row justify-between gap-16">
           <div className="md:w-3/5">
             <h1 className="text-4xl md:text-8xl font-bold mb-8">  
