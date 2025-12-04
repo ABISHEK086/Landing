@@ -9,7 +9,7 @@ const TryNow = () => {
             <h1 className="text-4xl md:text-8xl font-bold mb-8">
               Try it for<br />free
             </h1>
-            <p className="text-xl mb-8 md:max-w-lg">
+            <p className="text-xl mb-8 md:max-w-lg"> 
               Try CodeTutor for as long as you like with our free Starter plan. Purchase a paid Site plan to publish, host, and unlock additional features.
             </p>
             <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-md transition-colors">
