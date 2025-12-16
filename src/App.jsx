@@ -7,7 +7,7 @@ import FeaturesSection from './components/FeaturesSection'
 import DesignSection from './components/DesignSection'
 import CustomerSection from './components/CustomerSection'
 import About from './components/About'   
-import TryNow from './components/TryNow'
+import TryNow from './components/TryNow' 
 import Footer from './components/Footer'   
 function App() {
   
