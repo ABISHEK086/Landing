@@ -10,7 +10,7 @@ import About from './components/About'
 import TryNow from './components/TryNow' 
 import Footer from './components/Footer'    
 function App() {
-  
+   
 
   return (
     <>
