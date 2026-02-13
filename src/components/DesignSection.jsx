@@ -13,7 +13,7 @@ const tabsData = [
     cta: {
       text: 'Discover Designer',
       link: '/designer'  
-    } 
+    }  
   },   
   {   
     id: 'tab2',
