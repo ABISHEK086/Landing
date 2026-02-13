@@ -14,7 +14,7 @@ const tabsData = [
       text: 'Discover Designer',
       link: '/designer' 
     } 
-  }, 
+  },  
   {  
     id: 'tab2',
     title: 'Create complex, rich interactions',
