@@ -16,7 +16,7 @@ const tabsData = [
     }  
   },     
   {   
-    id: 'tab2',
+    id: 'tab2', 
     title: 'Create complex, rich interactions',
     subtitle: 'Design scroll-based and multi-step interactions and animations and easily work with GSAP, Spline, 3D, Lottie, and Rive — all without even thinking about code.',
     video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/complex-rich-animations.mp4',
