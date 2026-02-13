@@ -12,7 +12,7 @@ const tabsData = [
     poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/670570322cf4b274d716fed4_design-without-limits.avif',
     cta: {
       text: 'Discover Designer',
-      link: '/designer'  
+      link: '/designer'   
     }  
   },     
   {   
