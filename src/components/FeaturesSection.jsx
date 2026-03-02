@@ -11,7 +11,7 @@ const FeaturesSection = () => {
     {
       icon: <FiUploadCloud className="w-8 h-8" />,
       title: "Publish and edit",
-      description: "Choose how you want to add, edit, and update content at scale with our CMS: visually in our platform or programmatically through our headless APIs.",
+      description: "Choose how you want to add, edit, and update content at scale with  our CMS: visually in our platform or programmatically through our headless APIs.",
       link: "#publish-edit"
     },
     {
